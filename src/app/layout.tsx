@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: profile.short,
-    images: [{ url: "/images/og.jpg", width: 1200, height: 630, alt: profile.name }],
+    images: [{ url: "/images/og-card.png", width: 1200, height: 630, alt: `${profile.short}: ${profile.headline}` }],
   },
   twitter: { card: "summary_large_image" },
 };
