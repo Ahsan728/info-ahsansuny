@@ -1,0 +1,45 @@
+{
+  "name": "MD Shahnauze Ahsan",
+  "short": "Ahsan Suny",
+  "headline": "PhD Researcher in AI & Robotics",
+  "role": "PhD Researcher · AI & Robotics",
+  "affiliation": "ICIQ & Universitat Rovira i Virgili",
+  "location": "Tarragona, Spain",
+  "photo": "/images/profile.jpg",
+  "portrait": "/images/ahsan-portrait-light.jpg",
+  "portraitDark": "/images/ahsan-portrait-dark.jpg",
+  "aboutPhoto": "/images/ahsan-mentor.jpg",
+  "tagline": "I build self-driving labs: robots, instruments, agentic AI and edge AI that run chemistry experiments in a closed loop.",
+  "heroBio": "PhD researcher at ICIQ and the Universitat Rovira i Virgili, building a self-driving lab for catalysis that combines robotics, high-throughput experimentation, agentic AI and edge embedded AI. 5+ years of embedded hardware and software work across Bangladesh, France and Spain. Founder of Ahsan’s Lab and mentor to students going abroad for higher study.",
+  "bio": [
+    "I am a PhD researcher in AI and robotics at the Institute of Chemical Research of Catalonia (ICIQ) and the Universitat Rovira i Virgili. My project, “AI-Driven Robotics for Catalyst Development” (Spanish national grant 2AID, RAISE subgroup), is building a self-driving lab (SDL) for catalysis: robots, real-time characterisation and machine learning working together in a closed loop. Within it I focus on agentic AI that plans and runs experiments, and on edge embedded AI that brings models onto the lab hardware itself.",
+    "I bring 5+ years of hardware and software development. I started as a hardware engineer, and over the last few years I have moved up the stack into firmware, instrument drivers, user interfaces and AI agents, so I can take a lab instrument from PCB to software. I write firmware in C/C++, Python and VHDL for STM32, ESP32, Arduino and Raspberry Pi, from bare metal and RTOS to FPGA and embedded Linux, and I design PCBs with attention to EMI/EMC, signal integrity and testability. I have delivered 8+ projects for startups, research institutes and multinational companies in Bangladesh, France and Spain. Before the PhD I was a Research Software Engineer at ICIQ, automating a high-power photoreactor, and before that I earned an Advanced Master’s in embedded systems at Grenoble INP Esisar and interned at Schneider Electric.",
+    "Earlier, in Chittagong, I founded Ahsan’s Lab, a student research group that built more than twenty-five prototypes in robotics, IoT and agri-tech. I am now expanding into machine learning and embedded AI, and I care about startups and innovation that bridge hardware and software. Alongside research, I mentor students heading to Europe through Career Abroad Mentor and built Language Coach for Bengali speakers learning French and Spanish."
+  ],
+  "interests": [
+    "Self-driving labs",
+    "Agentic AI",
+    "Edge & embedded AI",
+    "AI-driven robotics",
+    "Embedded & IoT systems",
+    "PCB & hardware design",
+    "Hardware security"
+  ],
+  "links": {
+    "scholar": "https://scholar.google.com/citations?user=_7HPSf4AAAAJ&hl=en",
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57219988312",
+    "github": "https://github.com/Ahsan728",
+    "linkedin": "https://www.linkedin.com/in/eeehsan94/",
+    "orcid": "https://orcid.org/0000-0002-6365-4533",
+    "youtube": "https://www.youtube.com/@AhsanSuny",
+    "instagram": "https://www.instagram.com/ahsan_suny728/",
+    "mentor": "https://www.ahsansuny.com",
+    "language": "https://language.ahsansuny.com/",
+    "lab": "https://sites.google.com/view/ahsanslab"
+  },
+  "email": "",
+  "cv": {
+    "academic": "/files/md-shahnauze-ahsan-cv.pdf",
+    "portfolio": "/files/ahsan-pcb-and-software-portfolio.pdf"
+  }
+}

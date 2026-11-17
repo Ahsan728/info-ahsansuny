@@ -1,0 +1,10 @@
+[
+  {"group":"Programming","items":["Embedded C/C++","Python","VHDL","MATLAB/Simulink","ROS","PLC"]},
+  {"group":"Microcontrollers & platforms","items":["STM32","ESP32","Raspberry Pi","ARM Cortex-A9","Artix-7 FPGA","RISC-V","ATmega328P"]},
+  {"group":"Firmware & OS","items":["Bare metal","FreeRTOS","Embedded Linux","Git"]},
+  {"group":"PCB & simulation","items":["KiCad","Altium","EasyEDA","Proteus","Multisim","Xilinx Vivado","EMI/EMC & signal integrity"]},
+  {"group":"Protocols","items":["SPI","I²C","UART","USB","RS-232","RS-485","Modbus","MQTT","BLE 5.0","Wi-Fi","LTE-M","GSM","Ethernet"]},
+  {"group":"Automation & robotics","items":["Universal Robots","Cognex machine vision","Siemens PLC","Allen-Bradley","Mitsubishi"]},
+  {"group":"Security","items":["Side-channel analysis (CPA)","Fault injection","Clock glitching"]},
+  {"group":"Design tools","items":["SolidWorks","AutoCAD Electrical","Illustrator","Photoshop","LaTeX"]}
+]
