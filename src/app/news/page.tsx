@@ -14,7 +14,7 @@ export default function NewsPage() {
   return (
     <>
       <PageHeader eyebrow="News" title="News & updates">
-        Milestones from my career, publications and Ahsan’s Lab. <a href="/rss.xml" className="font-semibold text-accent hover:underline">Subscribe via RSS</a>.
+        Milestones from my career, publications and Ahsan’s Lab.
       </PageHeader>
       <Container className="py-12">
         <div className="mx-auto max-w-3xl space-y-10">

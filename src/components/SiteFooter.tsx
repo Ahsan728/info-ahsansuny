@@ -62,7 +62,6 @@ export default function SiteFooter() {
       <div className="border-t border-line">
         <div className="mx-auto flex max-w-6xl flex-wrap justify-between gap-2 px-4 py-5 text-xs text-muted sm:px-6">
           <span>© {new Date().getFullYear()} {profile.name}</span>
-          <a href="/rss.xml" className="hover:text-accent">RSS feed</a>
         </div>
       </div>
     </footer>
